@@ -1,4 +1,6 @@
 c
 f
 e
-fdd
+d
+e
+k로 변경
